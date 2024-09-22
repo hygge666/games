@@ -62,6 +62,9 @@ if(isset($_GET['game'])) {
 	?>
     </style>
 </head>
+<div align="center">
+			<hr><a target="_blank" href="https://xbbox.hylove.top" style="text-decoration: underline;font-size: 16px">小白主页</a>
+			</div>
 <body>
 	<?php 
 		include_once 'partials/' . $game . '/body.php';
